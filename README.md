@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Modestying
-- 👀 I’m interested in golang、micro service
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 1246183926@qq.com
+- 👋 Hi, I’m Modestying(you can also call me `yalei`)
+- 👀 I’m interested in `golang`、`micro service` and `video codec`
+- 🌱 I’m currently learning `k8s`,`audio codec`
+- 📫 How to reach me `1246183926@qq.com` or  `lei1246183926@gmail.com` 
 
 <!---
 Modestying/Modestying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
